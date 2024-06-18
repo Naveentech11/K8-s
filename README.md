@@ -1,5 +1,3 @@
-line is edited
-
 ### Kubernetes (K8s)
 -------------------
 
